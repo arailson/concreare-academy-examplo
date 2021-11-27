@@ -1,2 +1,2 @@
-# concreare-academy-examplo
-concreare-academy-examplo
+# concreare-academy-exemplo
+concreare-academy-exemplo
